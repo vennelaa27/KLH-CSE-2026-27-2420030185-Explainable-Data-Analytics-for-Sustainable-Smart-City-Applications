@@ -1,0 +1,5 @@
+Dataset,Model,MAE,MSE,RMSE,R2,Median_AE,Explained_Variance,Max_Error,NRMSE_percent,Adjusted_R2,MAPE_percent
+Air Quality,Linear Regression,0,0,0,1,0,1,0,0,1,0
+Air Quality,Decision Tree,0.1381,0.0373,0.1931,0.949,0.1007,0.9493,0.8227,7.4294,0.9353,18.782
+Air Quality,Random Forest,0.0845,0.0124,0.1114,0.983,0.0599,0.9831,0.37,4.2888,0.9784,11.9445
+Air Quality,Proposed Hybrid,0,0,0,1,0,1,0,0,1,0

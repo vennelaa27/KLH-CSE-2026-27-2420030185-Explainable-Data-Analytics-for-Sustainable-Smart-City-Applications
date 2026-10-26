@@ -1,0 +1,15 @@
+Dataset,Model,MAE,MSE,RMSE,R2,Median_AE,Explained_Variance,Max_Error,NRMSE_percent,Adjusted_R2,MAPE_percent
+Air Quality,Linear Regression,0,0,0,1,0,1,0,0,1,0
+Air Quality,Decision Tree,0.1381,0.0373,0.1931,0.949,0.1007,0.9493,0.8227,7.4294,0.9353,18.782
+Air Quality,Random Forest,0.0845,0.0124,0.1114,0.983,0.0599,0.9831,0.37,4.2888,0.9784,11.9445
+Air Quality,Proposed Hybrid,0,0,0,1,0,1,0,0,1,0
+,,,,,,,,,,,
+Weather,Linear Regression,3.2656,17.209,4.1484,0.8123,2.7206,0.8123,33.4449,7.0444,0.8118,
+Weather,Decision Tree,1.8121,7.559,2.7494,0.9176,1.0889,0.9176,21.2333,4.6687,0.9173,
+Weather,Random Forest,1.4283,3.7843,1.9453,0.9587,1.061,0.9587,14.2012,3.3034,0.9586,
+Weather,Proposed Hybrid,1.9146,5.8729,2.4234,0.936,1.6164,0.936,17.6718,4.1152,0.9359,
+,,,,,,,,,,,
+Energy,Linear Regression,4.091,26.6669,5.164,0.5929,3.4197,0.593,17.9852,12.699,,5.4222
+Energy,Decision Tree,5.5513,48.6729,6.9766,0.2569,4.3107,0.2572,21.4642,17.1564,,7.3262
+Energy,Random Forest,4.3428,29.3336,5.4161,0.5522,3.8628,0.5522,18.8513,13.3188,,5.7497
+Energy,Proposed Hybrid,4.1285,27.0009,5.1962,0.5878,3.6038,0.5878,17.9037,12.7782,0.5815,5.4722

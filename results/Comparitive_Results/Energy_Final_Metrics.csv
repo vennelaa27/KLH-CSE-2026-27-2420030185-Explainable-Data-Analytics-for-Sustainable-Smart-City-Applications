@@ -1,0 +1,5 @@
+Dataset,Model,MAE,MSE,RMSE,R2,Median_AE,Explained_Variance,Max_Error,NRMSE_percent,Adjusted_R2,MAPE_percent
+Energy,Linear Regression,4.091,26.6669,5.164,0.5929,3.4197,0.593,17.9852,12.699,,5.4222
+Energy,Decision Tree,5.5513,48.6729,6.9766,0.2569,4.3107,0.2572,21.4642,17.1564,,7.3262
+Energy,Random Forest,4.3428,29.3336,5.4161,0.5522,3.8628,0.5522,18.8513,13.3188,,5.7497
+Energy,Proposed Hybrid,4.1285,27.0009,5.1962,0.5878,3.6038,0.5878,17.9037,12.7782,0.5815,5.4722
